@@ -17,6 +17,8 @@ This Java project is a simple e-commerce system that allows users to sign in, vi
 - Adding/removing products from the shopping cart.
 - Changing the quantity of items in the cart.
 - Calculating the total and processing payments.
+- Implementing a Privilege Feature to the admins .
+- Discounts and generated from admins with a certain privilege .
 
 ## Prerequisites
 

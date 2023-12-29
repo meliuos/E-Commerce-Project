@@ -29,7 +29,7 @@ This Java project is a simple e-commerce system that allows users to sign in, vi
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/your-e-commerce-project.git](https://github.com/meliuos/E-Commerce-Project)
+   git clone https://github.com/meliuos/E-Commerce-Project
 ## Usage
 Run the Main class to start the program.
 Follow the on-screen instructions to Sign In or Sign Up.
